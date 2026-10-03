@@ -19,10 +19,11 @@ Systems , Natural Language Processing.
 
 Birzeit University Ambassador: welcoming visitors and helping new students
 
-## Tech stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,java,py,mysql,flask,pytorch,linux,git,github,html,css,vscode&perline=12" alt="Tech stack icons" /> </p>
+## Tech Stack
 
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,py,mysql,flask,pytorch,linux,html&perline=10" alt="Tech stack icons" />
+</p>
 
 
 
