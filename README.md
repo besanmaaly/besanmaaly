@@ -2,11 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:21262D,100:30363D&height=210&section=header&text=Besan%20Maaly&fontColor=FFFFFF&fontSize=60&fontAlignY=40&desc=Computer%20Engineering%20Student&descAlignY=62&descSize=18" alt="Besan Maaly" />
 </p>
 
-<p align="center">
-  <a href="mailto:besanmaaly571@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
 
 
 
