@@ -23,15 +23,7 @@ Birzeit University Ambassador: welcoming visitors and helping new students
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,java,py,mysql,flask,pytorch,linux,git,github,html,css,vscode&perline=12" alt="Tech stack icons" /> </p>
 
 
-| | |
-|---|---|
-| **Languages** | C · Java · Python · SQL · Assembly |
-| **Backend & Web** | Flask · MySQL · HTML/CSS |
-| **Systems & Networking** | Linux · IPC (shared memory, semaphores, message queues) · TCP/UDP Sockets |
-| **Security** | AES-256 · HMAC · X25519 · Ed25519 · TLS · Argon2id |
-| **ML & NLP** | PyTorch · HMM · BiLSTM · Decision Trees · MLP |
-| **Hardware & Verification** | Verilog · SystemVerilog · Digital Logic Design · Microcontrollers |
-| **Tools** | Git · GitHub · VS Code · Eclipse |
+
 
 
 
